@@ -1,0 +1,3 @@
+[submodule "APIrate-bay"]
+	path = APIrate-bay
+	url = git@github.com:Koda777/APIrate-bay.git
